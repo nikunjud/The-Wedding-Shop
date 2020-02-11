@@ -21,14 +21,14 @@ namespace TWG_RoverPuzzle
                 }
             }
 
-            if (input.Count >= 3) // Assumption: Min 1 rover is deployed.
+            if (input.Count > 1) // Assumption: Min 1 rover is deployed.
             {
                 int xCoordinate;
                 int yCoordinate;
                 string[] splitResult = input[0].Split(' ');
                 if (splitResult.Length == 2
                     && int.TryParse(splitResult[0], out xCoordinate)
-                    && int.TryParse(splitResult[1], out yCoordinate) && xCoordinate > 0 && yCoordinate > 0)
+                    && int.TryParse(splitResult[1], out yCoordinate) && (xCoordinate > 0 || yCoordinate > 0))
                 {
                     Coordinates maxPosition = new Coordinates(xCoordinate, yCoordinate);
                     for (int i = 1; i < input.Count; i = i + 2)
@@ -37,7 +37,7 @@ namespace TWG_RoverPuzzle
                         if (IsValidInitialPositionAndDirection(input[i], maxPosition))
                         {
                             rr.SetStartPostionAndDirection(input[i]);
-                            if ((i + 1) <= input.Count && input[i + 1] != null && input[i + 1].Length > 0)
+                            if ((i + 1) < input.Count && input[i + 1] != null && input[i + 1].Length > 0)
                             {
                                 rr.MoveAround(input[i + 1], maxPosition);
                             }

@@ -4,3 +4,9 @@ G:\Practise\WillisTowersWatson\TWG-RoverPuzzle\TWG-RoverPuzzle\bin\Debug\TWG-Rov
 G:\Practise\WillisTowersWatson\TWG-RoverPuzzle\TWG-RoverPuzzle\bin\Debug\TWG-RoverPuzzle.pdb
 G:\Practise\WillisTowersWatson\TWG-RoverPuzzle\TWG-RoverPuzzle\obj\Debug\TWG-RoverPuzzle.exe
 G:\Practise\WillisTowersWatson\TWG-RoverPuzzle\TWG-RoverPuzzle\obj\Debug\TWG-RoverPuzzle.pdb
+G:\Practise\TWG-RoverPuzzle\The-Wedding-Shop\TWG-RoverPuzzle\TWG-RoverPuzzle\bin\Debug\TWG-RoverPuzzle.exe.config
+G:\Practise\TWG-RoverPuzzle\The-Wedding-Shop\TWG-RoverPuzzle\TWG-RoverPuzzle\obj\Debug\TWG-RoverPuzzle.exe
+G:\Practise\TWG-RoverPuzzle\The-Wedding-Shop\TWG-RoverPuzzle\TWG-RoverPuzzle\obj\Debug\TWG-RoverPuzzle.pdb
+G:\Practise\TWG-RoverPuzzle\The-Wedding-Shop\TWG-RoverPuzzle\TWG-RoverPuzzle\bin\Debug\TWG-RoverPuzzle.exe
+G:\Practise\TWG-RoverPuzzle\The-Wedding-Shop\TWG-RoverPuzzle\TWG-RoverPuzzle\bin\Debug\TWG-RoverPuzzle.pdb
+G:\Practise\TWG-RoverPuzzle\The-Wedding-Shop\TWG-RoverPuzzle\TWG-RoverPuzzle\obj\Debug\TWG-RoverPuzzle.csprojResolveAssemblyReference.cache
