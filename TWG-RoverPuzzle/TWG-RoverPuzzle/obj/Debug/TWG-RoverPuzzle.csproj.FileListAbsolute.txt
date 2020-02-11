@@ -1,0 +1,6 @@
+G:\Practise\WillisTowersWatson\TWG-RoverPuzzle\TWG-RoverPuzzle\bin\Debug\TWG-RoverPuzzle.exe.config
+G:\Practise\WillisTowersWatson\TWG-RoverPuzzle\TWG-RoverPuzzle\obj\Debug\TWG-RoverPuzzle.csprojResolveAssemblyReference.cache
+G:\Practise\WillisTowersWatson\TWG-RoverPuzzle\TWG-RoverPuzzle\bin\Debug\TWG-RoverPuzzle.exe
+G:\Practise\WillisTowersWatson\TWG-RoverPuzzle\TWG-RoverPuzzle\bin\Debug\TWG-RoverPuzzle.pdb
+G:\Practise\WillisTowersWatson\TWG-RoverPuzzle\TWG-RoverPuzzle\obj\Debug\TWG-RoverPuzzle.exe
+G:\Practise\WillisTowersWatson\TWG-RoverPuzzle\TWG-RoverPuzzle\obj\Debug\TWG-RoverPuzzle.pdb
